@@ -1,0 +1,12 @@
+========= COLORS =============
+--background1: #83a8df;
+--background2: #c3cfe2;
+--container-bg: #ffffff;
+--h1: #333333;
+--h1-bg: #667eea;
+--generate-btn1: #667eea;
+--generate-btn2: #764ba2;
+--btn-text: #ffffff;
+--color-info: #ffffff;
+--copy-btn: #64748b;
+--copy-btn-hover: #667eea;
